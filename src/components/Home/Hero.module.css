@@ -1,0 +1,20 @@
+.mainHero{
+    background-image: url("../../assets/bg.jpg");
+    background-size: cover;
+    background-color: aqua;
+    padding: 20px;
+}
+
+.mainHero h1{
+    color: blue;
+    margin-top: 10%;
+}
+
+.mainHero button{
+    color: blue;
+    background-color: brown;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom:3%;
+}
